@@ -1,3 +1,3 @@
 # remoteCommand
-Bypass firewall by using reverse shell.
 Command equivalent of remote Desktop
+Uses reverse shell so that firewall cannot block the connection.
